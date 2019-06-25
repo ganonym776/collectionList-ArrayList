@@ -1,0 +1,7 @@
+c:\users\amikom\source\repos\classcollection\classcollection\bin\Debug\classcollection.exe.config
+c:\users\amikom\source\repos\classcollection\classcollection\bin\Debug\classcollection.exe
+c:\users\amikom\source\repos\classcollection\classcollection\bin\Debug\classcollection.pdb
+c:\users\amikom\source\repos\classcollection\classcollection\obj\Debug\classcollection.csprojAssemblyReference.cache
+c:\users\amikom\source\repos\classcollection\classcollection\obj\Debug\classcollection.csproj.CoreCompileInputs.cache
+c:\users\amikom\source\repos\classcollection\classcollection\obj\Debug\classcollection.exe
+c:\users\amikom\source\repos\classcollection\classcollection\obj\Debug\classcollection.pdb
